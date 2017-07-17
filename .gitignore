@@ -1,0 +1,6 @@
+RailShot/Library/*
+*.sln
+*.csproj
+*.userprefs
+RailShot/RailShot_Data/*
+RailShot/Temp/*
