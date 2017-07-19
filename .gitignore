@@ -1,4 +1,5 @@
 RailShot/Library/*
+*.meta
 *.sln
 *.csproj
 *.userprefs
